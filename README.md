@@ -1,2 +1,2 @@
-# html-elem-counter
-Count HTML elements on any webpage
+# HTML Element Counter
+Count any HTML element on any webpage
